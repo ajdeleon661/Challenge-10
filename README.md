@@ -16,5 +16,7 @@ The ability to update an Employees role as needed.
 ## How to Run
 
 -npm install 
+
 -npm run build
+
 -npm start
